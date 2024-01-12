@@ -1,0 +1,18 @@
+.board_container{
+  background-color: #2a2828;
+  height: 600px;
+  width: 600px;
+  margin: auto;
+  margin-top: 60px;
+
+  
+  
+}
+
+.job_board_title{
+  text-align: center;
+  padding-top: 20px;
+  font-size: 30px;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
